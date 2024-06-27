@@ -4,6 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "e5f77814e732cf80482cc3c6504a71bb",
 ".git/config": "ac0e90309a836f689189d096af1bc444",
 =======
@@ -174,6 +175,9 @@ const RESOURCES = {".git/config": "bd437afaee55cb67088d84c4f900d494",
 "404.html": "e84e858aca7abba29f114961976c1f7c",
 >>>>>>> e00bac2 (index file updated)
 "app_launcher_icon.png": "894c315ac113caa750a3d4c36d880630",
+=======
+const RESOURCES = {"app_launcher_icon.png": "894c315ac113caa750a3d4c36d880630",
+>>>>>>> e7f11ad (index file updated)
 "assets/AssetManifest.bin": "f9589b06e44825fd3ae138c797002829",
 "assets/AssetManifest.bin.json": "22303e7d86f667d44e25d36c6a996803",
 "assets/AssetManifest.json": "951d13c301fc6a1a27778a85f29131ed",
@@ -210,6 +214,7 @@ const RESOURCES = {".git/config": "bd437afaee55cb67088d84c4f900d494",
 "assets/assets/videos/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/FontManifest.json": "afba93828394c4a734a8dbdccd24fd86",
 <<<<<<< HEAD
+<<<<<<< HEAD
 "assets/fonts/MaterialIcons-Regular.otf": "e69ba8f966d6444066f8a5cc034e6421",
 "assets/NOTICES": "b2566f5c9b1c7b780bf613660a1fb96b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
@@ -230,6 +235,8 @@ const RESOURCES = {".git/config": "bd437afaee55cb67088d84c4f900d494",
 "favicon.png": "2704101cb06ce66e2000356a312be25c",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 "assets/fonts/MaterialIcons-Regular.otf": "20bfc9b27b0ba7756a2bc72e01fd6591",
 "assets/NOTICES": "731c660ed10b49fb79110dc6062af9f1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
@@ -249,8 +256,12 @@ const RESOURCES = {".git/config": "bd437afaee55cb67088d84c4f900d494",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "2704101cb06ce66e2000356a312be25c",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "cd22522b9a9a36f352193a66829fddd0",
 >>>>>>> e00bac2 (index file updated)
+=======
+"flutter_bootstrap.js": "aa36ce79e5e85a5ca36cb792ea4f7ce3",
+>>>>>>> e7f11ad (index file updated)
 "icons/app_launcher_icon.png": "894c315ac113caa750a3d4c36d880630",
 "icons/error_image.png": "894c315ac113caa750a3d4c36d880630",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -258,10 +269,14 @@ const RESOURCES = {".git/config": "bd437afaee55cb67088d84c4f900d494",
 "index.html": "beefa2b9e4cd730e221a59887d5f0f00",
 "/": "beefa2b9e4cd730e221a59887d5f0f00",
 <<<<<<< HEAD
+<<<<<<< HEAD
 "main.dart.js": "ef0a3c297d48bad8dfb6779f193f959b",
 =======
 "main.dart.js": "43e926577d468408107d5d96b11ed114",
 >>>>>>> e00bac2 (index file updated)
+=======
+"main.dart.js": "43e926577d468408107d5d96b11ed114",
+>>>>>>> e7f11ad (index file updated)
 "manifest.json": "b01dbaf0249a73df3dede01097716370",
 "Slammie_-_OpenGraph.jpeg": "18923e41c4e1bbf776fd870dbe747b35",
 "version.json": "8a6d7f9cafaa795df939b65c0b69c25a"};
@@ -270,9 +285,13 @@ const RESOURCES = {".git/config": "bd437afaee55cb67088d84c4f900d494",
 const CORE = ["main.dart.js",
 "index.html",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "flutter_bootstrap.js",
 >>>>>>> e00bac2 (index file updated)
+=======
+"flutter_bootstrap.js",
+>>>>>>> e7f11ad (index file updated)
 "assets/AssetManifest.bin.json",
 "assets/FontManifest.json"];
 

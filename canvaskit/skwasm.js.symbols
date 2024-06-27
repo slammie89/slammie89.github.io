@@ -8,6 +8,7 @@
 7:__cxa_throw
 8:invoke_viiii
 <<<<<<< HEAD
+<<<<<<< HEAD
 9:glGetString
 10:skwasm_registerMessageListener
 11:invoke_viiiiiii
@@ -16,12 +17,18 @@
 10:invoke_viiiiiii
 11:glGetString
 >>>>>>> e00bac2 (index file updated)
+=======
+9:skwasm_registerMessageListener
+10:invoke_viiiiiii
+11:glGetString
+>>>>>>> e7f11ad (index file updated)
 12:glDeleteTextures
 13:emscripten_glGetIntegerv
 14:emscripten_exit_with_live_runtime
 15:__wasi_fd_close
 16:__syscall_fcntl64
 17:strftime_l
+<<<<<<< HEAD
 <<<<<<< HEAD
 18:skwasm_setAssociatedObjectOnThread
 19:skwasm_resizeCanvas
@@ -694,6 +701,8 @@
 686:skia_private::TArray<std::__2::unique_ptr<SkSL::Statement\2c\20std::__2::default_delete<SkSL::Statement>>\2c\20true>::reserve_exact\28int\29
 687:skia_private::STArray<2\2c\20std::__2::unique_ptr<SkSL::Statement\2c\20std::__2::default_delete<SkSL::Statement>>\2c\20true>::STArray\28skia_private::STArray<2\2c\20std::__2::unique_ptr<SkSL::Statement\2c\20std::__2::default_delete<SkSL::Statement>>\2c\20true>&&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 18:skwasm_syncTimeOriginForThread
 19:skwasm_setAssociatedObjectOnThread
 20:skwasm_resolveAndPostImages
@@ -1364,7 +1373,10 @@
 685:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::__move_assign\5babi:v160004\5d\28std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>&\2c\20std::__2::integral_constant<bool\2c\20true>\29
 686:std::__2::basic_string<char16_t\2c\20std::__2::char_traits<char16_t>\2c\20std::__2::allocator<char16_t>>::__throw_length_error\5babi:v160004\5d\28\29\20const
 687:skvx::Vec<4\2c\20skvx::Mask<float>::type>\20skvx::operator<<4\2c\20float>\28skvx::Vec<4\2c\20float>\20const&\2c\20skvx::Vec<4\2c\20float>\20const&\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 688:skgpu::ResourceKey::Builder::Builder\28skgpu::ResourceKey*\2c\20unsigned\20int\2c\20int\29
 689:rewind\28GrTriangulator::EdgeList*\2c\20GrTriangulator::Vertex**\2c\20GrTriangulator::Vertex*\2c\20GrTriangulator::Comparator\20const&\29
 690:hb_sanitize_context_t::end_processing\28\29
@@ -1373,6 +1385,7 @@
 693:_output_with_dotted_circle\28hb_buffer_t*\29
 694:SkTSpan::pointLast\28\29\20const
 695:SkTDStorage::resize\28int\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 696:SkSL::Parser::rangeFrom\28SkSL::Token\29
 697:SkSL::FunctionDeclaration::description\28\29\20const
@@ -12626,6 +12639,8 @@
 11945:$_1::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\2c\20unsigned\20char\29
 11946:$_0::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 696:SkSL::TProgramVisitor<SkSL::ProgramVisitorTypes>::visitExpression\28SkSL::Expression\20const&\29
 697:SkSL::Parser::rangeFrom\28SkSL::Token\29
 698:SkSL::FunctionDeclaration::description\28\29\20const
@@ -23922,4 +23937,7 @@
 11989:$_2::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\29
 11990:$_1::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\2c\20unsigned\20char\29
 11991:$_0::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)

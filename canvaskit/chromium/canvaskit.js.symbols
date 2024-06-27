@@ -14,12 +14,17 @@
 13:invoke_ii
 14:invoke_viii
 <<<<<<< HEAD
+<<<<<<< HEAD
 15:_emval_get_method_caller
 16:_embind_register_smart_ptr
 =======
 15:_embind_register_smart_ptr
 16:_emval_get_method_caller
 >>>>>>> e00bac2 (index file updated)
+=======
+15:_embind_register_smart_ptr
+16:_emval_get_method_caller
+>>>>>>> e7f11ad (index file updated)
 17:_embind_register_memory_view
 18:_embind_register_constant
 19:_emval_call_void_method
@@ -33,12 +38,17 @@
 27:_embind_register_class_constructor
 28:_embind_register_value_object
 <<<<<<< HEAD
+<<<<<<< HEAD
 29:_embind_register_integer
 30:_embind_finalize_value_object
 =======
 29:_embind_finalize_value_object
 30:_embind_register_integer
 >>>>>>> e00bac2 (index file updated)
+=======
+29:_embind_finalize_value_object
+30:_embind_register_integer
+>>>>>>> e7f11ad (index file updated)
 31:_emval_new_object
 32:_emval_as
 33:__cxa_throw
@@ -233,6 +243,7 @@
 222:SkColorInfo::~SkColorInfo\28\29
 223:SkContainerAllocator::allocate\28int\2c\20double\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 224:SkString::SkString\28\29
 225:SkDebugf\28char\20const*\2c\20...\29
 226:SkString::insert\28unsigned\20long\2c\20char\20const*\29
@@ -251,6 +262,8 @@
 239:SkString::SkString\28char\20const*\29
 240:SkSL::ErrorReporter::error\28SkSL::Position\2c\20std::__2::basic_string_view<char\2c\20std::__2::char_traits<char>>\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 224:SkDebugf\28char\20const*\2c\20...\29
 225:SkString::SkString\28\29
 226:SkData::~SkData\28\29
@@ -268,7 +281,10 @@
 238:ft_mem_free
 239:SkString::SkString\28char\20const*\29
 240:FT_MulFix
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 241:emscripten::default_smart_ptr_trait<sk_sp<GrDirectContext>>::share\28void*\29
 242:SkTDStorage::append\28\29
 243:SkMatrix::computeTypeMask\28\29\20const
@@ -276,6 +292,7 @@
 245:SkWriter32::growToAtLeast\28unsigned\20long\29
 246:testSetjmp
 247:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::append\28char\20const*\2c\20unsigned\20long\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 248:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::size\5babi:v160004\5d\28\29\20const
 249:fmaxf
@@ -394,6 +411,8 @@
 362:SkRasterPipeline::uncheckedAppend\28SkRasterPipelineOp\2c\20void*\29
 363:std::__2::to_string\28int\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 248:fmaxf
 249:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::size\5babi:v160004\5d\28\29\20const
 250:SkString::SkString\28SkString&&\29
@@ -510,13 +529,17 @@
 361:skia_private::TArray<std::__2::unique_ptr<SkSL::Expression\2c\20std::__2::default_delete<SkSL::Expression>>\2c\20true>::operator=\28skia_private::TArray<std::__2::unique_ptr<SkSL::Expression\2c\20std::__2::default_delete<SkSL::Expression>>\2c\20true>&&\29
 362:decltype\28auto\29\20std::__2::__variant_detail::__visitation::__base::__dispatcher<1ul>::__dispatch\5babi:v160004\5d<std::__2::__variant_detail::__dtor<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>::__destroy\5babi:v160004\5d\28\29::'lambda'\28auto&\29&&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>&>\28auto\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>&\29
 363:SkRasterPipeline::uncheckedAppend\28SkRasterPipelineOp\2c\20void*\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 364:std::__2::ios_base::getloc\28\29\20const
 365:SkRegion::~SkRegion\28\29
 366:skia_png_read_push_finish_row
 367:skia::textlayout::TextStyle::~TextStyle\28\29
 368:hb_blob_make_immutable
 369:SkString::operator=\28char\20const*\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 370:hb_ot_map_builder_t::add_pause\28unsigned\20int\2c\20bool\20\28*\29\28hb_ot_shape_plan_t\20const*\2c\20hb_font_t*\2c\20hb_buffer_t*\29\29
 371:cff1_path_procs_extents_t::curve\28CFF::cff1_cs_interp_env_t&\2c\20cff1_extents_param_t&\2c\20CFF::point_t\20const&\2c\20CFF::point_t\20const&\2c\20CFF::point_t\20const&\29
@@ -529,6 +552,8 @@
 378:SkSemaphore::~SkSemaphore\28\29
 379:SkSL::Type::matches\28SkSL::Type\20const&\29\20const
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 370:SkReadBuffer::setInvalid\28\29
 371:hb_ot_map_builder_t::add_pause\28unsigned\20int\2c\20bool\20\28*\29\28hb_ot_shape_plan_t\20const*\2c\20hb_font_t*\2c\20hb_buffer_t*\29\29
 372:cff1_path_procs_extents_t::curve\28CFF::cff1_cs_interp_env_t&\2c\20cff1_extents_param_t&\2c\20CFF::point_t\20const&\2c\20CFF::point_t\20const&\2c\20CFF::point_t\20const&\29
@@ -539,7 +564,10 @@
 377:skgpu::ganesh::SurfaceContext::caps\28\29\20const
 378:SkSL::Type::matches\28SkSL::Type\20const&\29\20const
 379:SkSL::String::printf\28char\20const*\2c\20...\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 380:SkPoint::normalize\28\29
 381:SkColorInfo::operator=\28SkColorInfo\20const&\29
 382:SkArenaAlloc::SkArenaAlloc\28char*\2c\20unsigned\20long\2c\20unsigned\20long\29
@@ -547,16 +575,22 @@
 384:jdiv_round_up
 385:SkSL::RP::Builder::binary_op\28SkSL::RP::BuilderOp\2c\20int\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 386:SkColorInfo::operator=\28SkColorInfo&&\29
 387:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::capacity\5babi:v160004\5d\28\29\20const
 388:jzero_far
 389:hb_blob_get_data_writable
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 386:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::capacity\5babi:v160004\5d\28\29\20const
 387:jzero_far
 388:hb_blob_get_data_writable
 389:SkPathRef::growForVerb\28int\2c\20float\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 390:SkColorInfo::SkColorInfo\28SkColorInfo&&\29
 391:skia_png_write_data
 392:bool\20std::__2::operator==\5babi:v160004\5d<char\2c\20std::__2::char_traits<char>>\28std::__2::istreambuf_iterator<char\2c\20std::__2::char_traits<char>>\20const&\2c\20std::__2::istreambuf_iterator<char\2c\20std::__2::char_traits<char>>\20const&\29
@@ -570,6 +604,7 @@
 400:FT_Stream_GetUShort
 401:std::__2::basic_string<wchar_t\2c\20std::__2::char_traits<wchar_t>\2c\20std::__2::allocator<wchar_t>>::operator=\5babi:v160004\5d\28wchar_t\20const*\29
 402:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::operator=\5babi:v160004\5d\28char\20const*\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 403:sktext::gpu::BagOfBytes::~BagOfBytes\28\29
 404:bool\20std::__2::operator==\5babi:v160004\5d<wchar_t\2c\20std::__2::char_traits<wchar_t>>\28std::__2::istreambuf_iterator<wchar_t\2c\20std::__2::char_traits<wchar_t>>\20const&\2c\20std::__2::istreambuf_iterator<wchar_t\2c\20std::__2::char_traits<wchar_t>>\20const&\29
@@ -618,6 +653,8 @@
 447:SkPath::operator=\28SkPath\20const&\29
 448:SkIRect\20skif::Mapping::map<SkIRect>\28SkIRect\20const&\2c\20SkMatrix\20const&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 403:bool\20std::__2::operator==\5babi:v160004\5d<wchar_t\2c\20std::__2::char_traits<wchar_t>>\28std::__2::istreambuf_iterator<wchar_t\2c\20std::__2::char_traits<wchar_t>>\20const&\2c\20std::__2::istreambuf_iterator<wchar_t\2c\20std::__2::char_traits<wchar_t>>\20const&\29
 404:SkPoint::scale\28float\2c\20SkPoint*\29\20const
 405:SkNullBlitter::blitMask\28SkMask\20const&\2c\20SkIRect\20const&\29
@@ -664,7 +701,10 @@
 446:GrOpsRenderPass::bindPipeline\28GrProgramInfo\20const&\2c\20SkRect\20const&\29
 447:hb_draw_funcs_t::start_path\28void*\2c\20hb_draw_state_t&\29
 448:SkPath::operator=\28SkPath\20const&\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 449:SkColorSpaceXformSteps::SkColorSpaceXformSteps\28SkColorSpace\20const*\2c\20SkAlphaType\2c\20SkColorSpace\20const*\2c\20SkAlphaType\29
 450:GrSimpleMeshDrawOpHelper::~GrSimpleMeshDrawOpHelper\28\29
 451:GrProcessorSet::GrProcessorSet\28GrPaint&&\29
@@ -690,6 +730,7 @@
 471:SkSL::evaluate_n_way_intrinsic\28SkSL::Context\20const&\2c\20SkSL::Expression\20const*\2c\20SkSL::Expression\20const*\2c\20SkSL::Expression\20const*\2c\20SkSL::Type\20const&\2c\20double\20\28*\29\28double\2c\20double\2c\20double\29\29\20\28.18\29
 472:SkSL::FunctionDeclaration::description\28\29\20const
 <<<<<<< HEAD
+<<<<<<< HEAD
 473:SkDPoint::approximatelyEqual\28SkDPoint\20const&\29\20const
 474:GrOpsRenderPass::bindTextures\28GrGeometryProcessor\20const&\2c\20GrSurfaceProxy\20const*\20const*\2c\20GrPipeline\20const&\29
 475:std::__2::basic_string<wchar_t\2c\20std::__2::char_traits<wchar_t>\2c\20std::__2::allocator<wchar_t>>::~basic_string\28\29
@@ -701,6 +742,8 @@
 481:SkDynamicMemoryWStream::write\28void\20const*\2c\20unsigned\20long\29
 482:GrSurfaceProxy::backingStoreDimensions\28\29\20const
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 473:SkRuntimeEffect::MakeForShader\28SkString\2c\20SkRuntimeEffect::Options\20const&\29
 474:SkDPoint::approximatelyEqual\28SkDPoint\20const&\29\20const
 475:GrSurfaceProxy::backingStoreDimensions\28\29\20const
@@ -711,7 +754,10 @@
 480:hb_buffer_t::_set_glyph_flags\28unsigned\20int\2c\20unsigned\20int\2c\20unsigned\20int\2c\20bool\2c\20bool\29
 481:emscripten_longjmp
 482:SkDynamicMemoryWStream::write\28void\20const*\2c\20unsigned\20long\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 483:GrMeshDrawOp::GrMeshDrawOp\28unsigned\20int\29
 484:FT_RoundFix
 485:std::__2::unique_ptr<unsigned\20char\2c\20void\20\28*\29\28void*\29>::~unique_ptr\5babi:v160004\5d\28\29
@@ -721,6 +767,7 @@
 489:__multi3
 490:SkSL::RP::Builder::push_duplicates\28int\29
 491:SkSL::ConstructorCompound::MakeFromConstants\28SkSL::Context\20const&\2c\20SkSL::Position\2c\20SkSL::Type\20const&\2c\20double\20const*\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 492:SkRuntimeEffect::MakeForShader\28SkString\2c\20SkRuntimeEffect::Options\20const&\29
 493:SkNullBlitter::blitAntiH\28int\2c\20int\2c\20unsigned\20char\20const*\2c\20short\20const*\29
@@ -847,6 +894,8 @@
 614:fit_linear\28skcms_Curve\20const*\2c\20int\2c\20float\2c\20float*\2c\20float*\2c\20float*\29
 615:emscripten::default_smart_ptr_trait<sk_sp<GrDirectContext>>::construct_null\28\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 492:SkMatrix::postTranslate\28float\2c\20float\29
 493:SkBlockAllocator::reset\28\29
 494:SkBitmapDevice::drawMesh\28SkMesh\20const&\2c\20sk_sp<SkBlender>\2c\20SkPaint\20const&\29
@@ -971,12 +1020,16 @@
 613:hb_font_get_glyph
 614:ft_mem_qalloc
 615:fit_linear\28skcms_Curve\20const*\2c\20int\2c\20float\2c\20float*\2c\20float*\2c\20float*\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 616:_output_with_dotted_circle\28hb_buffer_t*\29
 617:WebPSafeMalloc
 618:SkStream::readS32\28int*\29
 619:SkSL::GLSLCodeGenerator::getTypeName\28SkSL::Type\20const&\29
 620:SkRGBA4f<\28SkAlphaType\293>::FromColor\28unsigned\20int\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 621:SkPath::Iter::Iter\28SkPath\20const&\2c\20bool\29
 622:SkPaint::setPathEffect\28sk_sp<SkPathEffect>\29
@@ -1012,6 +1065,8 @@
 652:SkCanvas::restoreToCount\28int\29
 653:SkCanvas::internalQuickReject\28SkRect\20const&\2c\20SkPaint\20const&\2c\20SkMatrix\20const*\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 621:SkPathRef::~SkPathRef\28\29
 622:SkPath::Iter::Iter\28SkPath\20const&\2c\20bool\29
 623:SkPaint::setPathEffect\28sk_sp<SkPathEffect>\29
@@ -1045,12 +1100,16 @@
 651:SkCanvas::restoreToCount\28int\29
 652:SkCanvas::internalQuickReject\28SkRect\20const&\2c\20SkPaint\20const&\2c\20SkMatrix\20const*\29
 653:SkAutoPixmapStorage::~SkAutoPixmapStorage\28\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 654:GrMatrixEffect::Make\28SkMatrix\20const&\2c\20std::__2::unique_ptr<GrFragmentProcessor\2c\20std::__2::default_delete<GrFragmentProcessor>>\29
 655:std::__2::char_traits<char>::assign\28char&\2c\20char\20const&\29
 656:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::operator=\5babi:v160004\5d\28std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>&&\29
 657:std::__2::__check_grouping\28std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>\20const&\2c\20unsigned\20int*\2c\20unsigned\20int*\2c\20unsigned\20int&\29
 658:skia_png_malloc
+<<<<<<< HEAD
 <<<<<<< HEAD
 659:skgpu::ganesh::SurfaceDrawContext::drawFilledQuad\28GrClip\20const*\2c\20GrPaint&&\2c\20DrawQuad*\2c\20GrUserStencilSettings\20const*\29
 660:png_write_complete_chunk
@@ -1184,6 +1243,8 @@
 788:FT_Stream_ReadByte
 789:void\20std::__2::vector<std::__2::pair<unsigned\20int\2c\20sk_sp<SkData>>\2c\20std::__2::allocator<std::__2::pair<unsigned\20int\2c\20sk_sp<SkData>>>>::__emplace_back_slow_path<unsigned\20int\20const&\2c\20sk_sp<SkData>>\28unsigned\20int\20const&\2c\20sk_sp<SkData>&&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 659:skia::textlayout::Cluster::run\28\29\20const
 660:skgpu::ganesh::SurfaceDrawContext::drawFilledQuad\28GrClip\20const*\2c\20GrPaint&&\2c\20DrawQuad*\2c\20GrUserStencilSettings\20const*\29
 661:sk_sp<SkData>::~sk_sp\28\29
@@ -1315,12 +1376,16 @@
 787:GrCaps::getReadSwizzle\28GrBackendFormat\20const&\2c\20GrColorType\29\20const
 788:GrBufferAllocPool::reset\28\29
 789:FT_Stream_ReadByte
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 790:std::__2::char_traits<wchar_t>::assign\28wchar_t&\2c\20wchar_t\20const&\29
 791:std::__2::char_traits<char>::copy\28char*\2c\20char\20const*\2c\20unsigned\20long\29
 792:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::begin\5babi:v160004\5d\28\29
 793:std::__2::__next_prime\28unsigned\20long\29
 794:std::__2::__libcpp_snprintf_l\28char*\2c\20unsigned\20long\2c\20__locale_struct*\2c\20char\20const*\2c\20...\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 795:snprintf
 796:skif::LayerSpace<SkMatrix>::mapRect\28skif::LayerSpace<SkIRect>\20const&\29\20const
@@ -1337,6 +1402,8 @@
 807:SkImageFilter_Base::SkImageFilter_Base\28sk_sp<SkImageFilter>\20const*\2c\20int\2c\20std::__2::optional<bool>\29
 808:SkIRect::join\28SkIRect\20const&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 795:skif::LayerSpace<SkMatrix>::mapRect\28skif::LayerSpace<SkIRect>\20const&\29\20const
 796:is_equal\28std::type_info\20const*\2c\20std::type_info\20const*\2c\20bool\29
 797:hb_buffer_t::sync\28\29
@@ -1351,7 +1418,10 @@
 806:SkImageFilter_Base::getFlattenableType\28\29\20const
 807:SkImageFilter_Base::getChildOutputLayerBounds\28int\2c\20skif::Mapping\20const&\2c\20std::__2::optional<skif::LayerSpace<SkIRect>>\29\20const
 808:SkImageFilter_Base::getChildInputLayerBounds\28int\2c\20skif::Mapping\20const&\2c\20skif::LayerSpace<SkIRect>\20const&\2c\20std::__2::optional<skif::LayerSpace<SkIRect>>\29\20const
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 809:SkIDChangeListener::List::~List\28\29
 810:SkFontMgr::countFamilies\28\29\20const
 811:SkDQuad::ptAtT\28double\29\20const
@@ -1372,6 +1442,7 @@
 826:AutoFTAccess::AutoFTAccess\28SkTypeface_FreeType\20const*\29
 827:AlmostPequalUlps\28float\2c\20float\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 828:strchr
 829:std::__2::ctype<char>::is\5babi:v160004\5d\28unsigned\20long\2c\20char\29\20const
 830:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::basic_string\5babi:v160004\5d<std::nullptr_t>\28char\20const*\29
@@ -1379,13 +1450,18 @@
 832:skia_private::TArray<unsigned\20char\2c\20true>::operator=\28skia_private::TArray<unsigned\20char\2c\20true>&&\29
 833:skia_private::TArray<SkPoint\2c\20true>::operator=\28skia_private::TArray<SkPoint\2c\20true>\20const&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 828:void\20std::__2::vector<std::__2::pair<unsigned\20int\2c\20sk_sp<SkData>>\2c\20std::__2::allocator<std::__2::pair<unsigned\20int\2c\20sk_sp<SkData>>>>::__emplace_back_slow_path<unsigned\20int\20const&\2c\20sk_sp<SkData>>\28unsigned\20int\20const&\2c\20sk_sp<SkData>&&\29
 829:strchr
 830:std::__2::ctype<char>::is\5babi:v160004\5d\28unsigned\20long\2c\20char\29\20const
 831:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::basic_string\5babi:v160004\5d<std::nullptr_t>\28char\20const*\29
 832:std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>::__set_long_cap\5babi:v160004\5d\28unsigned\20long\29
 833:skia_private::TArray<unsigned\20char\2c\20true>::operator=\28skia_private::TArray<unsigned\20char\2c\20true>&&\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 834:skia_png_reset_crc
 835:memchr
 836:hb_buffer_t::sync_so_far\28\29
@@ -1394,6 +1470,7 @@
 839:SkTDStorage::resize\28int\29
 840:SkSwizzler::swizzle\28void*\2c\20unsigned\20char\20const*\29
 841:SkStream::readPackedUInt\28unsigned\20long*\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 842:SkSize\20skif::Mapping::map<SkSize>\28SkSize\20const&\2c\20SkMatrix\20const&\29
 843:SkSL::Type::coercionCost\28SkSL::Type\20const&\29\20const
@@ -1439,6 +1516,8 @@
 883:SkStrokeRec::SkStrokeRec\28SkPaint\20const&\2c\20float\29
 884:SkString::set\28char\20const*\2c\20unsigned\20long\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 842:SkSL::Type::coercionCost\28SkSL::Type\20const&\29\20const
 843:SkSL::Type::clone\28SkSL::Context\20const&\2c\20SkSL::SymbolTable*\29\20const
 844:SkSL::RP::Generator::writeStatement\28SkSL::Statement\20const&\29
@@ -1482,7 +1561,10 @@
 882:SkString::set\28char\20const*\2c\20unsigned\20long\29
 883:SkSize\20skif::Mapping::map<SkSize>\28SkSize\20const&\2c\20SkMatrix\20const&\29
 884:SkSL::SymbolTable::addWithoutOwnership\28SkSL::Context\20const&\2c\20SkSL::Symbol*\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 885:SkSL::Swizzle::Make\28SkSL::Context\20const&\2c\20SkSL::Position\2c\20std::__2::unique_ptr<SkSL::Expression\2c\20std::__2::default_delete<SkSL::Expression>>\2c\20skia_private::STArray<4\2c\20signed\20char\2c\20true>\29
 886:SkSL::String::appendf\28std::__2::basic_string<char\2c\20std::__2::char_traits<char>\2c\20std::__2::allocator<char>>*\2c\20char\20const*\2c\20...\29
 887:SkSL::Parser::layoutInt\28\29
@@ -1497,12 +1579,17 @@
 896:SkMasks::getAlpha\28unsigned\20int\29\20const
 897:SkM44::setConcat\28SkM44\20const&\2c\20SkM44\20const&\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 898:SkImageFilter_Base::getChildOutputLayerBounds\28int\2c\20skif::Mapping\20const&\2c\20std::__2::optional<skif::LayerSpace<SkIRect>>\29\20const
 899:SkImageFilter_Base::getChildInputLayerBounds\28int\2c\20skif::Mapping\20const&\2c\20skif::LayerSpace<SkIRect>\20const&\2c\20std::__2::optional<skif::LayerSpace<SkIRect>>\29\20const
 =======
 898:SkImageFilters::Crop\28SkRect\20const&\2c\20SkTileMode\2c\20sk_sp<SkImageFilter>\29
 899:SkImageFilter_Base::getChildOutput\28int\2c\20skif::Context\20const&\29\20const
 >>>>>>> e00bac2 (index file updated)
+=======
+898:SkImageFilters::Crop\28SkRect\20const&\2c\20SkTileMode\2c\20sk_sp<SkImageFilter>\29
+899:SkImageFilter_Base::getChildOutput\28int\2c\20skif::Context\20const&\29\20const
+>>>>>>> e7f11ad (index file updated)
 900:SkData::MakeFromMalloc\28void\20const*\2c\20unsigned\20long\29
 901:SkDRect::setBounds\28SkTCurve\20const&\29
 902:SkColorFilter::isAlphaUnchanged\28\29\20const
@@ -1523,6 +1610,7 @@
 917:std::__2::to_string\28long\20long\29
 918:std::__2::__libcpp_locale_guard::~__libcpp_locale_guard\5babi:v160004\5d\28\29
 919:std::__2::__libcpp_locale_guard::__libcpp_locale_guard\5babi:v160004\5d\28__locale_struct*&\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 920:sktext::gpu::GlyphVector::~GlyphVector\28\29
 921:sktext::gpu::GlyphVector::glyphs\28\29\20const
@@ -1572,6 +1660,8 @@
 965:SkDevice::makeSpecial\28SkBitmap\20const&\29
 966:SkCanvas::drawPath\28SkPath\20const&\2c\20SkPaint\20const&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 920:skia_png_benign_error
 921:skia_png_app_error
 922:skgpu::ganesh::SurfaceFillContext::getOpsTask\28\29
@@ -1619,7 +1709,10 @@
 964:SkColorFilter::filterColor4f\28SkRGBA4f<\28SkAlphaType\293>\20const&\2c\20SkColorSpace*\2c\20SkColorSpace*\29\20const
 965:SkCanvas::drawPath\28SkPath\20const&\2c\20SkPaint\20const&\29
 966:SkAutoPixmapStorage::SkAutoPixmapStorage\28\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 967:SkAAClipBlitterWrapper::init\28SkRasterClip\20const&\2c\20SkBlitter*\29
 968:SkAAClipBlitterWrapper::SkAAClipBlitterWrapper\28\29
 969:RunBasedAdditiveBlitter::flush\28\29
@@ -1651,10 +1744,14 @@
 995:std::__2::__libcpp_asprintf_l\28char**\2c\20__locale_struct*\2c\20char\20const*\2c\20...\29
 996:skif::RoundOut\28SkRect\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 997:skia_private::THashMap<SkSL::Variable\20const*\2c\20SkSL::ProgramUsage::VariableCounts\2c\20SkGoodHash>::operator\5b\5d\28SkSL::Variable\20const*\20const&\29
 =======
 997:skia_private::THashTable<SkSL::Variable\20const*\2c\20SkSL::Variable\20const*\2c\20skia_private::THashSet<SkSL::Variable\20const*\2c\20SkGoodHash>::Traits>::removeSlot\28int\29
 >>>>>>> e00bac2 (index file updated)
+=======
+997:skia_private::THashTable<SkSL::Variable\20const*\2c\20SkSL::Variable\20const*\2c\20skia_private::THashSet<SkSL::Variable\20const*\2c\20SkGoodHash>::Traits>::removeSlot\28int\29
+>>>>>>> e7f11ad (index file updated)
 998:skia_png_zstream_error
 999:skia::textlayout::TextLine::iterateThroughVisualRuns\28bool\2c\20std::__2::function<bool\20\28skia::textlayout::Run\20const*\2c\20float\2c\20skia::textlayout::SkRange<unsigned\20long>\2c\20float*\29>\20const&\29\20const
 1000:skia::textlayout::ParagraphImpl::cluster\28unsigned\20long\29
@@ -1668,6 +1765,7 @@
 1008:int\20std::__2::__get_up_to_n_digits\5babi:v160004\5d<char\2c\20std::__2::istreambuf_iterator<char\2c\20std::__2::char_traits<char>>>\28std::__2::istreambuf_iterator<char\2c\20std::__2::char_traits<char>>&\2c\20std::__2::istreambuf_iterator<char\2c\20std::__2::char_traits<char>>\2c\20unsigned\20int&\2c\20std::__2::ctype<char>\20const&\2c\20int\29
 1009:hb_serialize_context_t::pop_pack\28bool\29
 1010:hb_lazy_loader_t<OT::OS2\2c\20hb_table_lazy_loader_t<OT::OS2\2c\206u\2c\20true>\2c\20hb_face_t\2c\206u\2c\20hb_blob_t>::get\28\29\20const
+<<<<<<< HEAD
 <<<<<<< HEAD
 1011:hb_buffer_destroy
 1012:bool\20std::__2::operator!=\5babi:v160004\5d<char*>\28std::__2::__wrap_iter<char*>\20const&\2c\20std::__2::__wrap_iter<char*>\20const&\29
@@ -1696,6 +1794,8 @@
 1035:SkOpSegment::nextChase\28SkOpSpanBase**\2c\20int*\2c\20SkOpSpan**\2c\20SkOpSpanBase**\29\20const
 1036:SkOpSegment::addCurveTo\28SkOpSpanBase\20const*\2c\20SkOpSpanBase\20const*\2c\20SkPathWriter*\29\20const
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 1011:bool\20std::__2::operator!=\5babi:v160004\5d<char*>\28std::__2::__wrap_iter<char*>\20const&\2c\20std::__2::__wrap_iter<char*>\20const&\29
 1012:afm_parser_read_vals
 1013:__extenddftf2
@@ -1722,13 +1822,17 @@
 1034:SkOpSegment::nextChase\28SkOpSpanBase**\2c\20int*\2c\20SkOpSpan**\2c\20SkOpSpanBase**\29\20const
 1035:SkOpSegment::addCurveTo\28SkOpSpanBase\20const*\2c\20SkOpSpanBase\20const*\2c\20SkPathWriter*\29\20const
 1036:SkMemoryStream::Make\28sk_sp<SkData>\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 1037:SkMatrix::preScale\28float\2c\20float\29
 1038:SkMatrix::postScale\28float\2c\20float\29
 1039:SkMatrix::isSimilarity\28float\29\20const
 1040:SkMask::computeImageSize\28\29\20const
 1041:SkIntersections::removeOne\28int\29
 1042:SkImageInfo::Make\28int\2c\20int\2c\20SkColorType\2c\20SkAlphaType\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 1043:SkDynamicMemoryWStream::detachAsData\28\29
 1044:SkDLine::ptAtT\28double\29\20const
@@ -1776,6 +1880,8 @@
 1086:hb_lazy_loader_t<OT::GDEF_accelerator_t\2c\20hb_face_lazy_loader_t<OT::GDEF_accelerator_t\2c\2024u>\2c\20hb_face_t\2c\2024u\2c\20OT::GDEF_accelerator_t>::get\28\29\20const
 1087:hb_buffer_get_glyph_infos
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 1043:SkDLine::ptAtT\28double\29\20const
 1044:SkColorSpace::Equals\28SkColorSpace\20const*\2c\20SkColorSpace\20const*\29
 1045:SkColorFilter::makeComposed\28sk_sp<SkColorFilter>\29\20const
@@ -1821,7 +1927,10 @@
 1085:hb_lazy_loader_t<OT::GDEF_accelerator_t\2c\20hb_face_lazy_loader_t<OT::GDEF_accelerator_t\2c\2024u>\2c\20hb_face_t\2c\2024u\2c\20OT::GDEF_accelerator_t>::get\28\29\20const
 1086:hb_buffer_get_glyph_infos
 1087:hb_buffer_destroy
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 1088:cff2_path_param_t::line_to\28CFF::point_t\20const&\29
 1089:cff1_path_param_t::line_to\28CFF::point_t\20const&\29
 1090:cf2_stack_getReal
@@ -1830,6 +1939,7 @@
 1093:afm_stream_skip_spaces
 1094:WebPRescalerInit
 1095:WebPRescalerExportRow
+<<<<<<< HEAD
 <<<<<<< HEAD
 1096:SkTextBlobBuilder::allocInternal\28SkFont\20const&\2c\20SkTextBlob::GlyphPositioning\2c\20int\2c\20int\2c\20SkPoint\2c\20SkRect\20const*\29
 1097:SkTDStorage::append\28void\20const*\2c\20int\29
@@ -1871,6 +1981,8 @@
 1133:SkImageInfo::computeOffset\28int\2c\20int\2c\20unsigned\20long\29\20const
 1134:SkImageFilter_Base::flatten\28SkWriteBuffer&\29\20const
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 1096:SkWStream::writeDecAsText\28int\29
 1097:SkTextBlobBuilder::allocInternal\28SkFont\20const&\2c\20SkTextBlob::GlyphPositioning\2c\20int\2c\20int\2c\20SkPoint\2c\20SkRect\20const*\29
 1098:SkTDStorage::append\28void\20const*\2c\20int\29
@@ -1910,13 +2022,17 @@
 1132:SkImageInfo::computeOffset\28int\2c\20int\2c\20unsigned\20long\29\20const
 1133:SkImageFilter_Base::flatten\28SkWriteBuffer&\29\20const
 1134:SkImageFilter::countInputs\28\29\20const
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 1135:SkDrawBase::SkDrawBase\28\29
 1136:SkDLine::NearPointV\28SkDPoint\20const&\2c\20double\2c\20double\2c\20double\29
 1137:SkDLine::NearPointH\28SkDPoint\20const&\2c\20double\2c\20double\2c\20double\29
 1138:SkDLine::ExactPointV\28SkDPoint\20const&\2c\20double\2c\20double\2c\20double\29
 1139:SkDLine::ExactPointH\28SkDPoint\20const&\2c\20double\2c\20double\2c\20double\29
 1140:SkColorSpaceXformSteps::apply\28SkRasterPipeline*\29\20const
+<<<<<<< HEAD
 <<<<<<< HEAD
 1141:SkColorFilter::filterColor\28unsigned\20int\29\20const
 1142:SkColorFilter::asAColorMode\28unsigned\20int*\2c\20SkBlendMode*\29\20const
@@ -2000,6 +2116,8 @@
 1220:SkSL::Type::MakeSpecialType\28char\20const*\2c\20char\20const*\2c\20SkSL::Type::TypeKind\29
 1221:SkSL::SymbolTable::addWithoutOwnership\28SkSL::Context\20const&\2c\20SkSL::Symbol*\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 1141:SkColorFilter::asAColorMode\28unsigned\20int*\2c\20SkBlendMode*\29\20const
 1142:SkCodec::SkCodec\28SkEncodedInfo&&\2c\20skcms_PixelFormat\2c\20std::__2::unique_ptr<SkStream\2c\20std::__2::default_delete<SkStream>>\2c\20SkEncodedOrigin\29
 1143:SkCanvas::drawPicture\28SkPicture\20const*\2c\20SkMatrix\20const*\2c\20SkPaint\20const*\29
@@ -2081,7 +2199,10 @@
 1219:SkSampler::Fill\28SkImageInfo\20const&\2c\20void*\2c\20unsigned\20long\2c\20SkCodec::ZeroInitialized\29
 1220:SkSL::Type::MakeTextureType\28char\20const*\2c\20SpvDim_\2c\20bool\2c\20bool\2c\20bool\2c\20SkSL::Type::TextureAccess\29
 1221:SkSL::Type::MakeSpecialType\28char\20const*\2c\20char\20const*\2c\20SkSL::Type::TypeKind\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 1222:SkSL::RP::Builder::push_slots_or_immutable\28SkSL::RP::SlotRange\2c\20SkSL::RP::BuilderOp\29
 1223:SkSL::RP::Builder::push_clone_from_stack\28SkSL::RP::SlotRange\2c\20int\2c\20int\29
 1224:SkSL::Program::~Program\28\29
@@ -2096,6 +2217,7 @@
 1233:SkResourceCache::Add\28SkResourceCache::Rec*\2c\20void*\29
 1234:SkRegion::writeToMemory\28void*\29\20const
 1235:SkRect\20skif::Mapping::map<SkRect>\28SkRect\20const&\2c\20SkMatrix\20const&\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 1236:SkRasterClip::setRect\28SkIRect\20const&\29
 1237:SkRasterClip::SkRasterClip\28SkRasterClip\20const&\29
@@ -4307,6 +4429,8 @@
 3443:std::__2::basic_istream<char\2c\20std::__2::char_traits<char>>::~basic_istream\28\29.2
 3444:std::__2::basic_istream<char\2c\20std::__2::char_traits<char>>::sentry::sentry\28std::__2::basic_istream<char\2c\20std::__2::char_traits<char>>&\2c\20bool\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 1236:SkReadBuffer::readMatrix\28SkMatrix*\29
 1237:SkReadBuffer::readBool\28\29
 1238:SkRasterClip::setRect\28SkIRect\20const&\29
@@ -6516,11 +6640,15 @@
 3442:std::__2::basic_ostream<char\2c\20std::__2::char_traits<char>>::operator<<\28float\29
 3443:std::__2::basic_ostream<char\2c\20std::__2::char_traits<char>>::flush\28\29
 3444:std::__2::basic_istream<char\2c\20std::__2::char_traits<char>>::~basic_istream\28\29.2
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 3445:std::__2::allocator_traits<std::__2::__sso_allocator<std::__2::locale::facet*\2c\2030ul>>::deallocate\5babi:v160004\5d\28std::__2::__sso_allocator<std::__2::locale::facet*\2c\2030ul>&\2c\20std::__2::locale::facet**\2c\20unsigned\20long\29
 3446:std::__2::allocator<wchar_t>::deallocate\5babi:v160004\5d\28wchar_t*\2c\20unsigned\20long\29
 3447:std::__2::allocator<wchar_t>::allocate\5babi:v160004\5d\28unsigned\20long\29
 3448:std::__2::allocator<char>::allocate\5babi:v160004\5d\28unsigned\20long\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 3449:std::__2::__unique_if<SkSL::ConstructorCompound>::__unique_single\20std::__2::make_unique\5babi:v160004\5d<SkSL::ConstructorCompound\2c\20SkSL::Position&\2c\20SkSL::Type\20const&\2c\20SkSL::ExpressionArray>\28SkSL::Position&\2c\20SkSL::Type\20const&\2c\20SkSL::ExpressionArray&&\29
 3450:std::__2::__time_put::__time_put\5babi:v160004\5d\28\29
@@ -6821,6 +6949,8 @@
 3745:skcms_ApproximatelyEqualProfiles
 3746:sk_sp<SkSurface_Raster>\20sk_make_sp<SkSurface_Raster\2c\20SkImageInfo\20const&\2c\20sk_sp<SkPixelRef>\2c\20SkSurfaceProps\20const*&>\28SkImageInfo\20const&\2c\20sk_sp<SkPixelRef>&&\2c\20SkSurfaceProps\20const*&\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 3449:std::__2::__wrap_iter<SkSL::ProgramElement\20const**>\20std::__2::vector<SkSL::ProgramElement\20const*\2c\20std::__2::allocator<SkSL::ProgramElement\20const*>>::insert<std::__2::__wrap_iter<SkSL::ProgramElement\20const**>\2c\200>\28std::__2::__wrap_iter<SkSL::ProgramElement\20const*\20const*>\2c\20std::__2::__wrap_iter<SkSL::ProgramElement\20const**>\2c\20std::__2::__wrap_iter<SkSL::ProgramElement\20const**>\29
 3450:std::__2::__unique_if<SkSL::ConstructorCompound>::__unique_single\20std::__2::make_unique\5babi:v160004\5d<SkSL::ConstructorCompound\2c\20SkSL::Position&\2c\20SkSL::Type\20const&\2c\20SkSL::ExpressionArray>\28SkSL::Position&\2c\20SkSL::Type\20const&\2c\20SkSL::ExpressionArray&&\29
 3451:std::__2::__time_put::__time_put\5babi:v160004\5d\28\29
@@ -7119,7 +7249,10 @@
 3744:skcms_ApproximatelyEqualProfiles
 3745:sk_sp<SkSurface_Raster>\20sk_make_sp<SkSurface_Raster\2c\20SkImageInfo\20const&\2c\20sk_sp<SkPixelRef>\2c\20SkSurfaceProps\20const*&>\28SkImageInfo\20const&\2c\20sk_sp<SkPixelRef>&&\2c\20SkSurfaceProps\20const*&\29
 3746:sk_sp<SkShader>*\20emscripten::internal::MemberAccess<SkRuntimeEffect::TracedShader\2c\20sk_sp<SkShader>>::getWire<SkRuntimeEffect::TracedShader>\28sk_sp<SkShader>\20SkRuntimeEffect::TracedShader::*\20const&\2c\20SkRuntimeEffect::TracedShader\20const&\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 3747:sk_fopen\28char\20const*\2c\20SkFILE_Flags\29
 3748:sk_fgetsize\28_IO_FILE*\29
 3749:sk_fclose\28_IO_FILE*\29
@@ -7448,6 +7581,7 @@
 4072:byn$mgfn-shared$embind_init_Skia\28\29::$_72::__invoke\28float\2c\20float\2c\20sk_sp<SkImageFilter>\29
 4073:byn$mgfn-shared$embind_init_Skia\28\29::$_11::__invoke\28SkCanvas&\2c\20unsigned\20long\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 4074:byn$mgfn-shared$decltype\28fp\28nullptr\29\29\20SkArenaAlloc::make<SkGlyph::DrawableData*\20SkArenaAlloc::make<SkGlyph::DrawableData>\28\29::'lambda'\28void*\29>\28SkGlyph::DrawableData&&\29::'lambda'\28char*\29::__invoke\28char*\29
 4075:byn$mgfn-shared$decltype\28fp\28nullptr\29\29\20SkArenaAlloc::make<SkArenaAllocList<GrOpFlushState::InlineUpload>::Node*\20SkArenaAlloc::make<SkArenaAllocList<GrOpFlushState::InlineUpload>::Node\2c\20std::__2::function<void\20\28std::__2::function<bool\20\28GrTextureProxy*\2c\20SkIRect\2c\20GrColorType\2c\20void\20const*\2c\20unsigned\20long\29>&\29>\2c\20skgpu::AtlasToken>\28std::__2::function<void\20\28std::__2::function<bool\20\28GrTextureProxy*\2c\20SkIRect\2c\20GrColorType\2c\20void\20const*\2c\20unsigned\20long\29>&\29>&&\2c\20skgpu::AtlasToken&&\29::'lambda'\28void*\29>\28SkArenaAllocList<GrOpFlushState::InlineUpload>::Node&&\29::'lambda'\28char*\29::__invoke\28char*\29
 4076:byn$mgfn-shared$decltype\28auto\29\20std::__2::__variant_detail::__visitation::__base::__dispatcher<1ul\2c\201ul>::__dispatch\5babi:v160004\5d<void\20std::__2::__variant_detail::__assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>>::__generic_assign\5babi:v160004\5d<std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&>\28std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&\29::'lambda'\28std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&\2c\20auto&&\29&&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>\20const&>\28std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>\20const&\29
@@ -7481,6 +7615,8 @@
 4104:byn$mgfn-shared$SkPairPathEffect::~SkPairPathEffect\28\29.1
 4105:byn$mgfn-shared$SkJSONWriter::endObject\28\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 4074:byn$mgfn-shared$decltype\28fp\28nullptr\29\29\20SkArenaAlloc::make<SkArenaAllocList<GrOpFlushState::InlineUpload>::Node*\20SkArenaAlloc::make<SkArenaAllocList<GrOpFlushState::InlineUpload>::Node\2c\20std::__2::function<void\20\28std::__2::function<bool\20\28GrTextureProxy*\2c\20SkIRect\2c\20GrColorType\2c\20void\20const*\2c\20unsigned\20long\29>&\29>\2c\20skgpu::AtlasToken>\28std::__2::function<void\20\28std::__2::function<bool\20\28GrTextureProxy*\2c\20SkIRect\2c\20GrColorType\2c\20void\20const*\2c\20unsigned\20long\29>&\29>&&\2c\20skgpu::AtlasToken&&\29::'lambda'\28void*\29>\28SkArenaAllocList<GrOpFlushState::InlineUpload>::Node&&\29::'lambda'\28char*\29::__invoke\28char*\29
 4075:byn$mgfn-shared$decltype\28auto\29\20std::__2::__variant_detail::__visitation::__base::__dispatcher<1ul\2c\201ul>::__dispatch\5babi:v160004\5d<void\20std::__2::__variant_detail::__assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>>::__generic_assign\5babi:v160004\5d<std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&>\28std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&\29::'lambda'\28std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&\2c\20auto&&\29&&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>\20const&>\28std::__2::__variant_detail::__copy_assignment<std::__2::__variant_detail::__traits<SkPaint\2c\20int>\2c\20\28std::__2::__variant_detail::_Trait\291>\20const&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>&\2c\20std::__2::__variant_detail::__base<\28std::__2::__variant_detail::_Trait\291\2c\20SkPaint\2c\20int>\20const&\29
 4076:byn$mgfn-shared$cf2_stack_pushInt
@@ -7513,7 +7649,10 @@
 4103:byn$mgfn-shared$SkPairPathEffect::~SkPairPathEffect\28\29.1
 4104:byn$mgfn-shared$SkKnownRuntimeEffects::\28anonymous\20namespace\29::make_blur_1D_effect\28int\2c\20SkRuntimeEffect::Options\20const&\29
 4105:byn$mgfn-shared$SkJSONWriter::endArray\28\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 4106:byn$mgfn-shared$SkComposePathEffect::~SkComposePathEffect\28\29
 4107:byn$mgfn-shared$SkColorSpace::MakeSRGB\28\29
 4108:byn$mgfn-shared$SkChopMonoCubicAtY\28SkPoint\20const*\2c\20float\2c\20SkPoint*\29
@@ -7626,6 +7765,7 @@
 4215:\28anonymous\20namespace\29::is_newer_better\28SkData*\2c\20SkData*\29
 4216:\28anonymous\20namespace\29::get_glyph_run_intercepts\28sktext::GlyphRun\20const&\2c\20SkPaint\20const&\2c\20float\20const*\2c\20float*\2c\20int*\29
 <<<<<<< HEAD
+<<<<<<< HEAD
 4217:\28anonymous\20namespace\29::filter_and_mm_have_effect\28GrQuad\20const&\2c\20GrQuad\20const&\29
 4218:\28anonymous\20namespace\29::draw_to_sw_mask\28GrSWMaskHelper*\2c\20skgpu::ganesh::ClipStack::Element\20const&\2c\20bool\29
 4219:\28anonymous\20namespace\29::determine_clipped_src_rect\28SkIRect\2c\20SkMatrix\20const&\2c\20SkMatrix\20const&\2c\20SkISize\20const&\2c\20SkRect\20const*\29
@@ -7720,6 +7860,8 @@
 4308:SkTypeface_FreeType::Scanner::scanFont\28SkStreamAsset*\2c\20int\2c\20SkString*\2c\20SkFontStyle*\2c\20bool*\2c\20skia_private::STArray<4\2c\20SkTypeface_FreeType::Scanner::AxisDefinition\2c\20true>*\29\20const
 4309:SkTypeface_FreeType::Scanner::Scanner\28\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 4217:\28anonymous\20namespace\29::draw_to_sw_mask\28GrSWMaskHelper*\2c\20skgpu::ganesh::ClipStack::Element\20const&\2c\20bool\29
 4218:\28anonymous\20namespace\29::determine_clipped_src_rect\28SkIRect\2c\20SkMatrix\20const&\2c\20SkMatrix\20const&\2c\20SkISize\20const&\2c\20SkRect\20const*\29
 4219:\28anonymous\20namespace\29::create_hb_face\28SkTypeface\20const&\29::$_0::__invoke\28void*\29
@@ -7813,7 +7955,10 @@
 4307:SkVertices::Builder::indices\28\29
 4308:SkUnicode::convertUtf16ToUtf8\28std::__2::basic_string<char16_t\2c\20std::__2::char_traits<char16_t>\2c\20std::__2::allocator<char16_t>>\20const&\29
 4309:SkUTF::UTF16ToUTF8\28char*\2c\20int\2c\20unsigned\20short\20const*\2c\20unsigned\20long\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
 4310:SkTypeface_FreeType::FaceRec::Make\28SkTypeface_FreeType\20const*\29
 4311:SkTypeface_Custom::onGetFamilyName\28SkString*\29\20const
 4312:SkTypeface::textToGlyphs\28void\20const*\2c\20unsigned\20long\2c\20SkTextEncoding\2c\20unsigned\20short*\2c\20int\29\20const
@@ -7867,6 +8012,7 @@
 4360:SkString::SkString\28std::__2::basic_string_view<char\2c\20std::__2::char_traits<char>>\29
 4361:SkStrikeSpec::SkStrikeSpec\28SkStrikeSpec\20const&\29
 4362:SkStrikeSpec::ShouldDrawAsPath\28SkPaint\20const&\2c\20SkFont\20const&\2c\20SkMatrix\20const&\29
+<<<<<<< HEAD
 <<<<<<< HEAD
 4363:SkStrikeCache::internalRemoveStrike\28SkStrike*\29
 4364:SkStrikeCache::internalFindStrikeOrNull\28SkDescriptor\20const&\29
@@ -14333,6 +14479,8 @@
 10825:$_1::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\2c\20unsigned\20char\29
 10826:$_0::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\29
 =======
+=======
+>>>>>>> e7f11ad (index file updated)
 4363:SkStrSplit\28char\20const*\2c\20char\20const*\2c\20SkStrSplitMode\2c\20skia_private::TArray<SkString\2c\20true>*\29
 4364:SkStrAppendS32\28char*\2c\20int\29
 4365:SkSpriteBlitter_Memcpy::~SkSpriteBlitter_Memcpy\28\29
@@ -20837,4 +20985,7 @@
 10864:$_2::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\29
 10865:$_1::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\2c\20unsigned\20char\29
 10866:$_0::__invoke\28unsigned\20char*\2c\20unsigned\20char\2c\20int\29
+<<<<<<< HEAD
 >>>>>>> e00bac2 (index file updated)
+=======
+>>>>>>> e7f11ad (index file updated)
