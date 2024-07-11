@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "8bb0676fefdb1bc53ea270c1265f21a1",
 ".git/config": "bd437afaee55cb67088d84c4f900d494",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -63,6 +64,12 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "8bb0676fefdb1bc53ea270c1265f21a1",
 "assets/AssetManifest.bin": "f9589b06e44825fd3ae138c797002829",
 "assets/AssetManifest.bin.json": "22303e7d86f667d44e25d36c6a996803",
 "assets/AssetManifest.json": "951d13c301fc6a1a27778a85f29131ed",
+=======
+const RESOURCES = {"app_launcher_icon.png": "894c315ac113caa750a3d4c36d880630",
+"assets/AssetManifest.bin": "64f0deabf53fb59f8d9b7214e40700e0",
+"assets/AssetManifest.bin.json": "497db39aa4fbdc6340392091278ee6b1",
+"assets/AssetManifest.json": "234217ea1484ef6df59e66911089b7ef",
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/ic_whatsapp.ttf": "e23fedbf6dd622778dc576526c4acd26",
@@ -81,8 +88,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "8bb0676fefdb1bc53ea270c1265f21a1",
 "assets/assets/images/error_image.png": "894c315ac113caa750a3d4c36d880630",
 "assets/assets/images/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/google.png": "b294611a6ddc739b597a1f8f904610b2",
+<<<<<<< HEAD
 "assets/assets/images/gray-photo-placeholder-icon-design-ui-vector-35850819_(1).jpg": "1d40a5c5aa5b3ee4429a9e2d45df719c",
 "assets/assets/images/ic_placeholder_user.jpg": "94b3486fd68de2551912fdeea9fc62b0",
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
 "assets/assets/images/Maslow_AI_iOS.png": "0c3388022c8676a726ad3da3d2f615f4",
 "assets/assets/images/maslow_logo_dark_theme.png": "a31cd033bdb19c9b020b0296adead1de",
 "assets/assets/images/RIVALSLAM_LOGO__WHITE_Palm-CLEAR_Star.png": "dc16a4bd382fb859c4076587c8d0526a",
@@ -95,6 +105,7 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "8bb0676fefdb1bc53ea270c1265f21a1",
 "assets/assets/rive_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/videos/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/FontManifest.json": "afba93828394c4a734a8dbdccd24fd86",
+<<<<<<< HEAD
 "assets/fonts/MaterialIcons-Regular.otf": "e69ba8f966d6444066f8a5cc034e6421",
 "assets/NOTICES": "b2566f5c9b1c7b780bf613660a1fb96b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
@@ -114,12 +125,35 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "8bb0676fefdb1bc53ea270c1265f21a1",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "2704101cb06ce66e2000356a312be25c",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
+=======
+"assets/fonts/MaterialIcons-Regular.otf": "20bfc9b27b0ba7756a2bc72e01fd6591",
+"assets/NOTICES": "9829b31402d04c1581860ca7205f7dd6",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "663bbb1c08918178d75492a51d44b8ca",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a5d7457fda15b7622c14f432ba63039a",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa21ac6fa1874af610abcfce1bb6d1f7",
+"assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
+"canvaskit/canvaskit.js": "738255d00768497e86aa4ca510cce1e1",
+"canvaskit/canvaskit.js.symbols": "74a84c23f5ada42fe063514c587968c6",
+"canvaskit/canvaskit.wasm": "9251bb81ae8464c4df3b072f84aa969b",
+"canvaskit/chromium/canvaskit.js": "901bb9e28fac643b7da75ecfd3339f3f",
+"canvaskit/chromium/canvaskit.js.symbols": "ee7e331f7f5bbf5ec937737542112372",
+"canvaskit/chromium/canvaskit.wasm": "399e2344480862e2dfa26f12fa5891d7",
+"canvaskit/skwasm.js": "5d4f9263ec93efeb022bb14a3881d240",
+"canvaskit/skwasm.js.symbols": "c3c05bd50bdf59da8626bbe446ce65a3",
+"canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
+"canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
+"favicon.png": "2704101cb06ce66e2000356a312be25c",
+"flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
+"flutter_bootstrap.js": "00e6e48723f725c36ad5e49d28e898d7",
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
 "icons/app_launcher_icon.png": "894c315ac113caa750a3d4c36d880630",
 "icons/error_image.png": "894c315ac113caa750a3d4c36d880630",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "0ed2ab9b4ef3cefc24979b8d402ec448",
 "/": "0ed2ab9b4ef3cefc24979b8d402ec448",
+<<<<<<< HEAD
 "main.dart.js": "852bb1ff4b759cce1574a74a6e599035",
 "manifest.json": "b01dbaf0249a73df3dede01097716370",
 "slammie89.github.io/.git/config": "68a6a76f36ed05ca35f40eabdd332304",
@@ -212,12 +246,20 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "8bb0676fefdb1bc53ea270c1265f21a1",
 "slammie89.github.io/manifest.json": "024a6f41b6aa7ea2213a23d867057ad1",
 "slammie89.github.io/Slammie_-_OpenGraph.jpeg": "18923e41c4e1bbf776fd870dbe747b35",
 "slammie89.github.io/version.json": "8a6d7f9cafaa795df939b65c0b69c25a",
+=======
+"main.dart.js": "e14f95a09cdea899dd6931a863433fdd",
+"manifest.json": "b01dbaf0249a73df3dede01097716370",
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
 "Slammie_-_OpenGraph.jpeg": "18923e41c4e1bbf776fd870dbe747b35",
 "version.json": "8a6d7f9cafaa795df939b65c0b69c25a"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
 "index.html",
+<<<<<<< HEAD
+=======
+"flutter_bootstrap.js",
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
 "assets/AssetManifest.bin.json",
 "assets/FontManifest.json"];
 
