@@ -484,7 +484,14 @@ spirv-cross
 txt
 vulkan
 vulkan-headers
+<<<<<<< HEAD
 vulkan-utility-libraries
+=======
+<<<<<<< HEAD
+=======
+vulkan-utility-libraries
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 vulkan-validation-layers
 wuffs
 
@@ -872,6 +879,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 accessibility
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2019 The Chromium Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -902,6 +914,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 accessibility
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright 2020 The Chromium Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -1124,6 +1140,43 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 accessibility
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+fuchsia_sdk
+
+Copyright 2019 The Chromium Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+--------------------------------------------------------------------------------
+accessibility
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 skia
 
 Copyright 2015 The Chromium Authors. All rights reserved.
@@ -4141,6 +4194,11 @@ CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright (c) 2022, Robert Nagy <robert.nagy@gmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
@@ -4157,6 +4215,10 @@ CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright (c) 2023, Google Inc.
 
 Permission to use, copy, modify, and/or distribute this software for any
@@ -4325,6 +4387,11 @@ https://www.openssl.org/source/license.html
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2010 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file
@@ -4343,6 +4410,10 @@ found in the LICENSE file
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright 2012-2016 The OpenSSL Project Authors. All Rights Reserved.
 
 Licensed under the OpenSSL license (the "License").  You may not use
@@ -4362,12 +4433,21 @@ https://www.openssl.org/source/license.html
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2014 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright 2014-2016 The OpenSSL Project Authors. All Rights Reserved.
 
 Licensed under the OpenSSL license (the "License").  You may not use
@@ -4406,12 +4486,21 @@ https://www.openssl.org/source/license.html
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2015 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright 2015-2016 The OpenSSL Project Authors. All Rights Reserved.
 
 Licensed under the OpenSSL license (the "License").  You may not use
@@ -4437,6 +4526,11 @@ CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2016 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file
@@ -4467,6 +4561,10 @@ found in the LICENSE file
 --------------------------------------------------------------------------------
 boringssl
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 Permission to use, copy, modify, and/or distribute this software for any
@@ -5132,7 +5230,14 @@ file_selector_windows
 flutter_lints
 flutter_markdown
 flutter_plugin_android_lifecycle
+<<<<<<< HEAD
 flutter_shaders
+=======
+<<<<<<< HEAD
+=======
+flutter_shaders
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 go_router
 google_identity_services_web
 google_sign_in
@@ -5806,6 +5911,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright (c) 2024, the Dart project authors.  Please see the AUTHORS file
 for details. All rights reserved.
 
@@ -5866,6 +5976,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright 2012, the Dart project authors.
 
 Redistribution and use in source and binary forms, with or without
@@ -7346,7 +7460,15 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
 
+<<<<<<< HEAD
 You may obtain a copy of this library's Source Code Form from: https://dart.googlesource.com/sdk/+/bb65648e20e29abc47acf3dd984518d29fd625c3
+=======
+<<<<<<< HEAD
+You may obtain a copy of this library's Source Code Form from: https://dart.googlesource.com/sdk/+/7f2523c2fa9a74ef3cbe21ae885458fc1fb99d1b
+=======
+You may obtain a copy of this library's Source Code Form from: https://dart.googlesource.com/sdk/+/bb65648e20e29abc47acf3dd984518d29fd625c3
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 /third_party/fallback_root_certificates/
 
 --------------------------------------------------------------------------------
@@ -9078,6 +9200,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 fuchsia_sdk
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2024 The Fuchsia Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -9105,6 +9232,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 fuchsia_sdk
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 musl as a whole is licensed under the following standard MIT license:
 
 
@@ -9911,6 +10042,51 @@ glslang
 Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
 Copyright (C) 2012-2013 LunarG, Inc.
 Copyright (C) 2017 ARM Limited.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Copyright (C) 2015-2020 Google, Inc.
+Modifications Copyright (C) 2020 Advanced Micro Devices, Inc. All rights reserved.
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+   Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+   Redistributions in binary form must reproduce the above
+   copyright notice, this list of conditions and the following
+   disclaimer in the documentation and/or other materials provided
+   with the distribution.
+
+   Neither the name of 3Dlabs Inc. Ltd. nor the names of its
+   contributors may be used to endorse or promote products derived
+   from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+--------------------------------------------------------------------------------
+glslang
+
+Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
+Copyright (C) 2012-2013 LunarG, Inc.
+Copyright (C) 2017 ARM Limited.
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright (C) 2018-2020 Google, Inc.
 
 All rights reserved.
@@ -9985,6 +10161,11 @@ POSSIBILITY OF SUCH DAMAGE.
 glslang
 
 Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright (C) 2012-2013 LunarG, Inc.
 Copyright (C) 2017, 2022-2024 Arm Limited.
 Copyright (C) 2015-2018 Google, Inc.
@@ -10063,6 +10244,10 @@ POSSIBILITY OF SUCH DAMAGE.
 glslang
 
 Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright (C) 2012-2015 LunarG, Inc.
 Copyright (C) 2015-2018 Google, Inc.
 Copyright (C) 2017, 2019 ARM Limited.
@@ -10181,7 +10366,15 @@ glslang
 Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
 Copyright (C) 2012-2016 LunarG, Inc.
 Copyright (C) 2015-2020 Google, Inc.
+<<<<<<< HEAD
 Copyright (C) 2017, 2022-2024 Arm Limited.
+=======
+<<<<<<< HEAD
+Copyright (C) 2017 ARM Limited.
+=======
+Copyright (C) 2017, 2022-2024 Arm Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Modifications Copyright (C) 2020-2021 Advanced Micro Devices, Inc. All rights reserved.
 
 All rights reserved.
@@ -10219,7 +10412,15 @@ glslang
 
 Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
 Copyright (C) 2012-2016 LunarG, Inc.
+<<<<<<< HEAD
 Copyright (C) 2017, 2022-2024 Arm Limited.
+=======
+<<<<<<< HEAD
+Copyright (C) 2017 ARM Limited.
+=======
+Copyright (C) 2017, 2022-2024 Arm Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Modifications Copyright (C) 2020 Advanced Micro Devices, Inc. All rights reserved.
 
 All rights reserved.
@@ -10440,7 +10641,14 @@ Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
 Copyright (C) 2013 LunarG, Inc.
 Copyright (C) 2017 ARM Limited.
 Copyright (C) 2015-2018 Google, Inc.
+<<<<<<< HEAD
 Copyright (c) 2023, Mobica Limited
+=======
+<<<<<<< HEAD
+=======
+Copyright (c) 2023, Mobica Limited
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 
 All rights reserved.
 
@@ -11098,7 +11306,14 @@ POSSIBILITY OF SUCH DAMAGE.
 glslang
 
 Copyright (C) 2014-2015 LunarG, Inc.
+<<<<<<< HEAD
 Copyright (C) 2022-2024 Arm Limited.
+=======
+<<<<<<< HEAD
+=======
+Copyright (C) 2022-2024 Arm Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Modifications Copyright (C) 2020 Advanced Micro Devices, Inc. All rights reserved.
 
 All rights reserved.
@@ -11136,7 +11351,15 @@ glslang
 
 Copyright (C) 2014-2016 LunarG, Inc.
 Copyright (C) 2015-2020 Google, Inc.
+<<<<<<< HEAD
 Copyright (C) 2017, 2022-2024 Arm Limited.
+=======
+<<<<<<< HEAD
+Copyright (C) 2017 ARM Limited.
+=======
+Copyright (C) 2017, 2022-2024 Arm Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Modifications Copyright (C) 2020 Advanced Micro Devices, Inc. All rights reserved.
 
 All rights reserved.
@@ -11528,7 +11751,15 @@ POSSIBILITY OF SUCH DAMAGE.
 glslang
 
 Copyright (C) 2016 Google, Inc.
+<<<<<<< HEAD
 Copyright (C) 2019, 2022-2024 Arm Limited.
+=======
+<<<<<<< HEAD
+Copyright (C) 2019 ARM Limited.
+=======
+Copyright (C) 2019, 2022-2024 Arm Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Modifications Copyright (C) 2020 Advanced Micro Devices, Inc. All rights reserved.
 
 All rights reserved.
@@ -11564,6 +11795,11 @@ POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 glslang
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright (C) 2016 Google, Inc.
 Copyright (C) 2022-2024 Arm Limited.
 
@@ -11600,6 +11836,10 @@ POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 glslang
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright (C) 2016 LunarG, Inc.
 
 All rights reserved.
@@ -11849,7 +12089,14 @@ glslang
 
 Copyright (C) 2016-2018 Google, Inc.
 Copyright (C) 2016 LunarG, Inc.
+<<<<<<< HEAD
 Copyright (C) 2023 Mobica Limited.
+=======
+<<<<<<< HEAD
+=======
+Copyright (C) 2023 Mobica Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 
 All rights reserved.
 
@@ -12061,7 +12308,15 @@ POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 glslang
 
+<<<<<<< HEAD
 Copyright (C) 2020 The Khronos Group Inc.
+=======
+<<<<<<< HEAD
+Copyright (C) 2020 Google, Inc.
+=======
+Copyright (C) 2020 The Khronos Group Inc.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 
 All rights reserved.
 
@@ -12077,7 +12332,15 @@ are met:
    disclaimer in the documentation and/or other materials provided
    with the distribution.
 
+<<<<<<< HEAD
    Neither the name of The Khronos Group Inc. nor the names of its
+=======
+<<<<<<< HEAD
+   Neither the name of Google, Inc., nor the names of its
+=======
+   Neither the name of The Khronos Group Inc. nor the names of its
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
    contributors may be used to endorse or promote products derived
    from this software without specific prior written permission.
 
@@ -12096,7 +12359,15 @@ POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 glslang
 
+<<<<<<< HEAD
 Copyright (C) 2023 LunarG, Inc.
+=======
+<<<<<<< HEAD
+Copyright (C) 2020 The Khronos Group Inc.
+=======
+Copyright (C) 2023 LunarG, Inc.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 
 All rights reserved.
 
@@ -12112,7 +12383,15 @@ are met:
    disclaimer in the documentation and/or other materials provided
    with the distribution.
 
+<<<<<<< HEAD
    Neither the name of 3Dlabs Inc. Ltd. nor the names of its
+=======
+<<<<<<< HEAD
+   Neither the name of The Khronos Group Inc. nor the names of its
+=======
+   Neither the name of 3Dlabs Inc. Ltd. nor the names of its
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
    contributors may be used to endorse or promote products derived
    from this software without specific prior written permission.
 
@@ -12225,7 +12504,14 @@ IN THE MATERIALS.
 glslang
 
 Copyright (c) 2014-2020 The Khronos Group Inc.
+<<<<<<< HEAD
 Copyright (C) 2022-2024 Arm Limited.
+=======
+<<<<<<< HEAD
+=======
+Copyright (C) 2022-2024 Arm Limited.
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Modifications Copyright (C) 2020 Advanced Micro Devices, Inc. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -12358,6 +12644,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 glslang
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright (c) 2021 The Khronos Group Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -12384,6 +12675,10 @@ IN THE MATERIALS.
 --------------------------------------------------------------------------------
 glslang
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright (c) 2022 ARM Limited
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -32732,6 +33027,11 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 list_counter
 
 MIT License
@@ -32756,6 +33056,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 lottie
 
 MIT License
@@ -33077,6 +33381,37 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+numerus
+
+MIT License
+
+Copyright (c) 2020 Armando DiCianno
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 octo_image
 
 MIT License
@@ -35657,6 +35992,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 skia
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 Copyright 2024 Google Inc.
 
 Redistribution and use in source and binary forms, with or without
@@ -35689,6 +36029,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 skia
 
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 Copyright 2024 Google LLC
 
 Redistribution and use in source and binary forms, with or without
@@ -35719,6 +36063,11 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
 skia
 
 Copyright 2024 The Android Open Source Project
@@ -35751,6 +36100,10 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 spirv-cross
 
 Copyright 2014-2016,2021 The Khronos Group, Inc.
@@ -36007,6 +36360,37 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+tutorial_coach_mark
+
+MIT License
+
+Copyright (c) 2018 Rafaelbarbosatec
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 typewritertext
 
 MIT License
@@ -36273,6 +36657,12 @@ freely, subject to the following restrictions:
 --------------------------------------------------------------------------------
 vulkan-validation-layers
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Copyright (C) 2012-2020 Yann Collet
+=======
+>>>>>>> main
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -36500,6 +36890,10 @@ THE SOFTWARE.
 vulkan-validation-layers
 
 Copyright (C) 2012-2021 Yann Collet
+<<<<<<< HEAD
+=======
+>>>>>>> 378c1ce (Solved bugs 11/07/2024)
+>>>>>>> main
 
 BSD 2-Clause License (https://www.opensource.org/licenses/bsd-license.php)
 
